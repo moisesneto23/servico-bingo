@@ -1,0 +1,65 @@
+{
+  "id": 0,
+  "nome": "string",
+  "dataLog": "2022-11-24T00:05:31.327Z",
+  "usuarioLog": 0,
+  "cliente_Id": 0,
+  "empresa_id": 1,
+  "altura": 1,
+  "largura": 2,
+  "profundidade": 3,
+  "valorTotal": 0,
+  "produtos": [
+    {
+      "id": 0,
+      "quantidade": 1,
+      "valorAdicional": 0,
+      "direcaoCalculo": 0,
+      "item": {
+        "id": 0,
+        "nome": "string",
+        "dataLog": "2022-11-24T00:05:31.327Z",
+        "usuarioLog": 0,
+        "tipo_id": 0,
+        "orcamentoCliente_id": 0,
+        "valorVenda": 1,
+        "valorCompra": 0,
+        "dimencao_id": 5
+      }
+    },
+    {
+      "id": 1,
+      "quantidade": 1,
+      "valorAdicional": 0,
+      "direcaoCalculo": 0,
+      "item": {
+        "id": 0,
+        "nome": "string",
+        "dataLog": "2022-11-24T00:05:31.327Z",
+        "usuarioLog": 0,
+        "tipo_id": 2,
+        "orcamentoCliente_id": 0,
+        "valorVenda": 15,
+        "valorCompra": 0,
+        "dimencao_id": 4
+      }
+    },
+    {
+      "id": 1,
+      "quantidade": 1,
+      "valorAdicional": 100,
+      "direcaoCalculo": 2,
+      "item": {
+        "id": 0,
+        "nome": "string",
+        "dataLog": "2022-11-24T00:05:31.327Z",
+        "usuarioLog": 0,
+        "tipo_id": 2,
+        "orcamentoCliente_id": 0,
+        "valorVenda": 15,
+        "valorCompra": 0,
+        "dimencao_id": 2
+      }
+    }
+  ]
+}
